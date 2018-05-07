@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 5 (Arrays & Lists)\MaxValueLeoK\MaxValueLeoK\obj\Debug\MaxValueLeoK.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 5 (Arrays & Lists)\MaxValueLeoK\MaxValueLeoK\obj\Debug\MaxValueLeoK.frmMaxValueLeoK.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 5 (Arrays & Lists)\MaxValueLeoK\MaxValueLeoK\obj\Debug\MaxValueLeoK.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 5 (Arrays & Lists)\MaxValueLeoK\MaxValueLeoK\obj\Debug\MaxValueLeoK.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 5 (Arrays & Lists)\MaxValueLeoK\MaxValueLeoK\bin\Debug\MaxValueLeoK.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 5 (Arrays & Lists)\MaxValueLeoK\MaxValueLeoK\bin\Debug\MaxValueLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 5 (Arrays & Lists)\MaxValueLeoK\MaxValueLeoK\bin\Debug\MaxValueLeoK.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 5 (Arrays & Lists)\MaxValueLeoK\MaxValueLeoK\obj\Debug\MaxValueLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 5 (Arrays & Lists)\MaxValueLeoK\MaxValueLeoK\obj\Debug\MaxValueLeoK.pdb
